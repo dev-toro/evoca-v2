@@ -1,5 +1,5 @@
 CacheControl==0.12.3
-Django==1.11
+Django==2.2.24
 Markdown==2.6.8
 MySQL-python==1.2.5
 Pillow==4.1.0
